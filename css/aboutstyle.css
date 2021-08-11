@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .jumbotron{
-    background-color: rgb(91, 25, 97);
+    background-color:rgb(187, 133, 232);
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
     color: rgb(0, 0, 0)
@@ -20,7 +20,7 @@
     min-height: 400px;
 }
 .footer{
-    background-color:rgb(167, 237, 227);
+    background-color:rgb(187, 133, 232);
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
