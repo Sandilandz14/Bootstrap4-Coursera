@@ -1,3 +1,10 @@
+body{
+    padding:50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color:rgb(69, 145, 155);
+}
 .row-header{
     margin: 0px auto;
     padding: 0px;
@@ -6,7 +13,7 @@
     background-color: rgb(91, 25, 97);
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    color: rgb(0, 0, 0)
+    color: white;
 }
 .address{
     font-size: 80%;
@@ -20,7 +27,7 @@
     min-height: 400px;
 }
 .footer{
-    background-color:rgb(167, 237, 227);
+    background-color:rgb(188, 243, 235);
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
